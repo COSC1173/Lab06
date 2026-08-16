@@ -101,8 +101,7 @@ System.out.println();
 ## Compile, Run, and Test
 
 ```bash
-bash tools/run_lab.sh lab06          # 15 official checks
-python3 tools/comment_check.py labs/lab06
+
 ```
 
 ---
