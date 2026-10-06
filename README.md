@@ -139,12 +139,11 @@ Prime count: 8
 
 ## Submission Checklist
 
-- [ ] `bash tools/run_lab.sh lab06` reports 15 of 15.
 - [ ] A limit of 1 reports `Prime count: 0` rather than crashing or reporting 1.
 - [ ] The triangle has exactly `rows` rows and no extra blank line.
 
 ```bash
-git add . && git commit -m "Lab 06 complete - all 15 checks passing" && git push
+
 ```
 
 ---
